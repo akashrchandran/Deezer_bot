@@ -1,1 +1,1 @@
-#Deletd all files and commits due to private reasons. Will inform new updates on channel.
+#Deleted all files and commits due to private reasons. Will inform new updates on channel.

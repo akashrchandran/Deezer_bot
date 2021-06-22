@@ -1631,7 +1631,7 @@ try:
 				except OSError:
 					pass
 except KeyboardInterrupt:
-	print("\nSTOPPING...")
+	print("\nReverting....")
 	sets.stop()
 	os.rmdir(loc_dir)
 	exit()
